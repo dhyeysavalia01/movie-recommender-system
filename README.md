@@ -5,7 +5,7 @@ A content-based movie recommendation system that suggests similar movies based o
 Try it out: pick a movie from the dropdown, hit "Get Recommendations," and get 5 similar movies instantly.
 
 ---
-# [try it yourself](http://machine-learning-movie-recommender-system.streamlit.app)
+# 👉 [try it yourself](http://machine-learning-movie-recommender-system.streamlit.app)
 ---
 
 ## 📌 Overview
